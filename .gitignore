@@ -45,3 +45,4 @@ examples/event/event
 examples/qespta/qespta
 examples/uartassistant/uartassistant
 object_script.*
+*.a
